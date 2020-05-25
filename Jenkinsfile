@@ -9,5 +9,5 @@ node {
              sh 'rm -rf $WORKSPACE/*'
              sh 'du -sh $WORKSPACE'
              }
-       cleanWs()
+      cleanWs()
 }
